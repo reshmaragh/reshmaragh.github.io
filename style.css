@@ -1,0 +1,81 @@
+html{ 
+margin: 0px;
+padding: 0px;
+border: 0px;
+left: 0px;
+top: 0px;
+      
+
+body{ 
+  background-color: lightblue;
+      
+
+h1{ 
+  display: inline;
+  text-align: center;
+  color: Violet;
+  font-family: "Copperplate", Copperplate, fantasy;
+  font-size: 50px;
+    
+
+p1{ 
+  color: navy;
+  font-family: "Lucida Handwriting", Brush, cursive;
+  font-size: 20px;
+    
+
+myDiv{ 
+  box-shadow: 10px 10px;
+       
+h2{ 
+  font-family: "Georgia", Times, serif;
+    
+
+#photographer{ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 465px;
+  height: auto;
+               
+
+table{ 
+  border: 1px solid;
+  width: 20%;
+       
+
+th{ 
+  border: 1px solid;
+  height: 35px;
+    
+td { 
+  border: 1px solid;
+  text-align: center;
+  height: 35px;
+     
+     
+
+label{ 
+  font-family: "Garamond", Times, serif;
+  font-size: 20px;
+       
+
+select{ 
+  font-family: "Garamond", Times, serif;
+  font-size: 30px;
+        
+
+option{ 
+  font-family: "Garamond", Times, serif;
+  font-size: 20px;
+        
+
+button{ 
+  font-family: "Garamond", Times, serif;
+  font-size: 20px;
+        
+
+footer{ 
+  text-align: center;
+        
+} }}"" }}"" }}"" }}"" }tr:hover { background-color: DodgerBlue;} }} }} }} }} }}"" }} }}"" }}"" }} }} }
